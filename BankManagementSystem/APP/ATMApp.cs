@@ -1,0 +1,2 @@
+﻿AppScreen.welcome();
+
